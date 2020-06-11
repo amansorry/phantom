@@ -43,9 +43,7 @@ MY DEVELOPER IS @Nafoli99
 FOR MORE COMMANDS CLICK /help""
 
 HELP_STRINGS = """
-
-Hello! my name *{}*.
-
+Hello! 
 *Main* commands available:
  - /start: start the bot
  - /help: PM's you this message.
